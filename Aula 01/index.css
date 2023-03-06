@@ -1,0 +1,14 @@
+body{
+    background-color: rgb(224, 48, 107);
+}
+.box{
+    width: 100px;
+    height: 100px;
+    border: 3px dashed rgb(82, 187, 105);
+
+}
+.row{
+    display: flex;
+    flex-direction: row;
+    gap: 30px;
+}
